@@ -1,0 +1,26 @@
+[
+    {
+        "title":"HTML",
+        "imageSrc":"experience/html.png"
+    },
+    {
+        "title":"CSS",
+        "imageSrc":"experience/css.png"
+    },
+    {
+        "title":"REACT",
+        "imageSrc":"experience/react.png"
+    },
+    {
+        "title":"NODEJS",
+        "imageSrc":"experience/nodejs.png"
+    },
+    {
+        "title":"SELENIUM",
+        "imageSrc":"experience/selenium.png"
+    },
+    {
+        "title":"JAVASCRIPT",
+        "imageSrc":"experience/javascript.png"
+    }
+]

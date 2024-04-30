@@ -1,0 +1,26 @@
+[
+    {
+        "role":"Software Engineer",
+        "organisation":"PopularDigital.ai",
+        "startDate":"Oct,2023",
+        "endDate":"Present",
+        "experiences":["Worked on Reactjs","Reduced load times by 50%"],
+        "imageSrc":"experience/popularD.png"
+    },
+    {
+        "role":"SDET",
+        "organisation":"PopularDigital.ai",
+        "startDate":"April,2023",
+        "endDate":"Present",
+        "experiences":["Worked on Selenium,Cucumber & Karate Framework"],
+        "imageSrc":"experience/javaeclipse.png"
+    },
+    {
+        "role":"MATLAB GUI",
+        "organisation":"ADE(DRDO)",
+        "startDate":"February,2023",
+        "endDate":"April,2023",
+        "experiences":["Worked on GUI MATLAB","It generated output text file"],
+        "imageSrc":"experience/matlab.png"
+    }
+]
